@@ -1,0 +1,249 @@
+S060908-v3.zip 26.66 mins
+S061008-v3.zip 29.80 mins
+S061108-v3.zip 30.33 mins
+S061208-v3.zip 29.08 mins
+S061308-v3.zip 30.15 mins
+S061608-v3.zip 24.71 mins
+S061708-v3.zip 24.44 mins
+S061808-v3.zip 27.14 mins
+S061908-v3.zip 29.22 mins
+S062008-v3.zip 26.29 mins
+S062308-v3.zip 23.86 mins
+S062408-v3.zip 26.97 mins
+S062508-v3.zip 28.53 mins
+S062608-v3.zip 29.22 mins
+S062708-v3.zip 29.06 mins
+S063008-v3.zip 27.00 mins
+S070108-v3.zip 35.85 mins
+S070208-v3.zip 31.13 mins
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 570, in readline
+    return io.BufferedIOBase.readline(self, limit)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 608, in peek
+    chunk = self.read(n)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 632, in read
+    data = self.read1(n - len(buf))
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 692, in read1
+    self._update_crc(data, eof=eof)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 647, in _update_crc
+    raise BadZipfile("Bad CRC-32 for file %r" % self.name)
+zipfile.BadZipfile: Bad CRC-32 for file 'S070308-v3.txt'
+S070408-v3.zip 0.00 mins
+S070708-v3.zip 33.57 mins
+S070808-v3.zip 35.33 mins
+S070908-v3.zip 31.17 mins
+S071008-v3.zip 39.88 mins
+S071108-v3.zip 43.27 mins
+S071408-v3.zip 34.53 mins
+S071508-v3.zip 43.58 mins
+S071608-v3.zip 33.64 mins
+S071708-v3.zip 35.67 mins
+S071808-v3.zip 28.85 mins
+S072108-v3.zip 26.40 mins
+S072208-v3.zip 31.02 mins
+S072308-v3.zip 33.63 mins
+S072408-v3.zip 31.23 mins
+S072508-v3.zip 27.90 mins
+S072808-v3.zip 24.59 mins
+S072908-v3.zip 26.91 mins
+S073008-v3.zip 29.92 mins
+S073108-v3.zip 29.11 mins
+S080108-v3.zip 28.29 mins
+S080408-v3.zip 25.25 mins
+S080508-v3.zip 26.22 mins
+S080608-v3.zip 24.03 mins
+S080708-v3.zip 24.58 mins
+S080808-v3.zip 24.00 mins
+S081108-v3.zip 23.28 mins
+S081208-v3.zip 24.01 mins
+S081308-v3.zip 26.46 mins
+S081408-v3.zip 25.02 mins
+S081508-v3.zip 22.24 mins
+S081808-v3.zip 22.82 mins
+S081908-v3.zip 23.94 mins
+S082008-v3.zip 25.91 mins
+S082108-v3.zip 23.93 mins
+S082208-v3.zip 20.49 mins
+S082508-v3.zip 21.70 mins
+S082608-v3.zip 21.47 mins
+S082708-v3.zip 20.78 mins
+S082808-v3.zip 20.73 mins
+S082908-v3.zip 19.11 mins
+S090108-v3.zip 0.01 mins
+S090208-v3.zip 25.49 mins
+S090308-v3.zip 26.35 mins
+S090408-v3.zip 29.50 mins
+S090508-v3.zip 32.90 mins
+S090808-v3.zip 39.41 mins
+S090908-v3.zip 37.21 mins
+S091008-v3.zip 35.67 mins
+S091108-v3.zip 39.31 mins
+S091208-v3.zip 36.72 mins
+S091508-v3.zip 42.83 mins
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+S091908-v3.zip 67.20 mins
+S092208-v3.zip 38.87 mins
+S092308-v3.zip 39.58 mins
+S092408-v3.zip 31.49 mins
+S092508-v3.zip 31.21 mins
+S092608-v3.zip 30.87 mins
+S092908-v3.zip 47.35 mins
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 570, in readline
+    return io.BufferedIOBase.readline(self, limit)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 608, in peek
+    chunk = self.read(n)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 632, in read
+    data = self.read1(n - len(buf))
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 692, in read1
+    self._update_crc(data, eof=eof)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 647, in _update_crc
+    raise BadZipfile("Bad CRC-32 for file %r" % self.name)
+zipfile.BadZipfile: Bad CRC-32 for file 'S093008-v3.txt'
+S100108-v3.zip 31.00 mins
+S100208-v3.zip 33.76 mins
+S100308-v3.zip 47.39 mins
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+S101308-v3.zip 44.49 mins
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+S102008-v3.zip 47.50 mins
+S102108-v3.zip 45.37 mins
+S102208-v3.zip 51.74 mins
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 570, in readline
+    return io.BufferedIOBase.readline(self, limit)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 608, in peek
+    chunk = self.read(n)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 632, in read
+    data = self.read1(n - len(buf))
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 692, in read1
+    self._update_crc(data, eof=eof)
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 647, in _update_crc
+    raise BadZipfile("Bad CRC-32 for file %r" % self.name)
+zipfile.BadZipfile: Bad CRC-32 for file 'S102708-v3.txt'
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
+S103108-v3.zip 47.39 mins
+S110308-v3.zip 31.18 mins
+S110408-v3.zip 34.86 mins
+S110508-v3.zip 39.79 mins
+S110608-v3.zip 49.14 mins
+S110708-v3.zip 41.96 mins
+S111008-v3.zip 37.71 mins
+S111108-v3.zip 46.46 mins
+S111208-v3.zip 74.36 mins
+Traceback (most recent call last):
+  File "./get_exe_order_3.0.py", line 37, in <module>
+    for j in z.open(zinfo):
+  File "/kellogg/users/aim/hwf586/anaconda2/lib/python2.7/zipfile.py", line 971, in open
+    raise BadZipfile("Bad magic number for file header")
+zipfile.BadZipfile: Bad magic number for file header
